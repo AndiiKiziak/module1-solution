@@ -14,6 +14,7 @@ function LunchCheckController ($scope) {
   };
   console.log ("dfs, ds, csacs, ".split(","))
 
+
 }
 
    function check(list) {
